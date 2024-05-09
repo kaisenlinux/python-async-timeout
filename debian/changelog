@@ -1,3 +1,9 @@
+python-async-timeout (4.0.3-1kaisen) kaisen-packages; urgency=medium
+
+  * Import the 4.0.3 release
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Thu, 09 May 2024 14:52:03 +0200
+
 python-async-timeout (4.0.2-1kaisen) kaisen-packages; urgency=medium
 
   * Import 4.0.2 version for gns3-server
