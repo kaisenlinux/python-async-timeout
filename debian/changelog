@@ -1,3 +1,9 @@
+python-async-timeout (5.0.1-1kaisen) kaisen-packages; urgency=medium
+
+  * Import the 5.0.1 release
+
+ -- Kevin Chevreuil - Kaisen <kaisen@kaisenlinux.org>  Mon, 13 Jan 2025 23:56:02 +0200
+
 python-async-timeout (4.0.3-1kaisen) kaisen-packages; urgency=medium
 
   * Import the 4.0.3 release
